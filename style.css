@@ -1,0 +1,14 @@
+.nome{
+    text-align: center; background-color: rgb(97, 238, 144); border-radius: 80%; color: rgb(85, 82, 78);
+    font-family: unset; font-style: italic; font-stretch: narrower; padding: 10px; text-decoration: none;
+}
+.info {
+     text-align: center; background-color: rgba(243, 167, 69, 0.795); border-bottom: 100%; 
+     color: rgb(85, 82, 78); padding: 5px; 
+
+}
+.inicio{
+    text-align: center; background-color: rgb(97, 238, 144); border-radius: 50%; color: rgb(85, 82, 78);
+    font-family: unset; font-style: italic; font-stretch: narrower; padding: 10px; 
+}
+ 
